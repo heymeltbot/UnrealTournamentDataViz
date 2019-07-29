@@ -1,0 +1,57 @@
+﻿[
+  {
+    "id": 1,
+    "weapon": "Bio Rifle",
+    "image_path": "Images/BioRifle.svg"
+  },
+  {
+    "id": 2,
+    "weapon": "Enforcer",
+    "image_path": "Images/Enforcer.svg"
+  },
+  {
+    "id": 3,
+    "weapon": "Flak Cannon",
+    "image_path": "Images/FlakCannon.svg"
+  },
+  {
+    "id": 4,
+    "weapon": "Impact Hammer",
+    "image_path": "Images/ImpactHammer.svg"
+  },
+  {
+    "id": 5,
+    "weapon": "Link Gun",
+    "image_path": "Images/LinkGun.svg"
+  },
+  {
+    "id": 6,
+    "weapon": "Minigun",
+    "image_path": "Images/Minigun.svg"
+  },
+  {
+    "id": 7,
+    "weapon": "Redeemer",
+    "image_path": "Images/Redeemer.svg"
+  },
+  {
+    "id": 8,
+    "weapon": "Rocket Launcher",
+    "image_path": "Images/RocketLauncher.svg"
+  },
+  {
+    "id": 9,
+    "weapon": "Shock Rifle",
+    "image_path": "Images/ShockRifle.svg"
+  },
+  {
+    "id": 10,
+    "weapon": "Sniper Rifle",
+    "image_path": "Images/SniperRifle.svg"
+  },
+  {
+    "id": 11,
+    "weapon": "Translocator",
+    "image_path": "Images/Translocator.svg"
+  }
+]
